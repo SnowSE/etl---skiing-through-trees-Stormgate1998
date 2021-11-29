@@ -10,11 +10,10 @@ namespace Skiing_Amongst_Trees
     {
         static void Main()
         {
-            int counter = 0;
             int down;
             int side;
             int xpostition;
-            int result = 0;
+            int result;
             int isTree;
             List<string> list = new List<string>();
             Console.Clear();
